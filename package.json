@@ -1,10 +1,10 @@
 {
-  "id": "gitlab",
-  "name": "hu-gitlab",
+  "id": "gitlabhubln",
+  "name": "gitlab-hu-berlin",
   "version": "1.0.0",
-  "description": "GitLab",
+  "description": "GitLab instance of Humboldt-Universität zu Berlin",
   "main": "index.js",
-  "author": "Jarvis (BallisticPain) Stubblefield",
+  "author": "Sophie (sopheck) Eckenstaler",
   "license": "MIT",
   "config": {
     "serviceURL": "https://scm.cms.hu-berlin.de/",
