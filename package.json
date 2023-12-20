@@ -1,14 +1,14 @@
 {
-  "id": "gitlabhubln",
-  "name": "gitlab-hu-berlin",
+  "id": "gitlabunipotsdam",
+  "name": "gitlab-uni-potsdam",
   "version": "1.0.0",
-  "description": "GitLab instance of the Humboldt-Universität zu Berlin",
+  "description": "GitLab instance of the Uni Potsdam",
   "main": "index.js",
   "author": "Sophie (sopheck) Eckenstaler, based on recipe-riot by Jarvis (BallisticPain) Stubblefield as delivered by Franz.",
   "license": "MIT",
-  "repository": "https://github.com/sopheck/franz-recipe-gitlab-hu-berlin",
+  "repository": "https://github.com/Philipp-Schneider/franz-recipe-gitlab-uni-potsdam",
   "config": {
-    "serviceURL": "https://scm.cms.hu-berlin.de/",
+    "serviceURL": "https://gitup.uni-potsdam.de/",
     "hasTeamID": false
   }
 }
